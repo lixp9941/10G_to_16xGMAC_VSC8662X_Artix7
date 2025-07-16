@@ -1,0 +1,8 @@
+# Ignore build outputs
+/fpga/bitstream/
+__pycache__/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
